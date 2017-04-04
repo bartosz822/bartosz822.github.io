@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://bartosz822.github.io"
-baseurl: "/bartosz822.github.io"
+baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -36,7 +36,7 @@ avatar: "/img/myself.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
- title-img: "/img/00000301-1.jpg"
+title-img: "/img/00000301-1.jpg"
 
 # --- Footer options --- #
 
